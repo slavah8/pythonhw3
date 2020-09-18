@@ -1,3 +1,5 @@
+#Author: Slava Hlushko vqh5091@psu.edu
+
 def digit_sum(n):
   if n == 0:
     return n;
